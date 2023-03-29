@@ -7,6 +7,10 @@ data_x= np.random.randn(10)
 
 data_y = np.random.randn(10)
 
+# generating postive random numbers 
+
+data_x = np.abs(data_x)
+
 
 # plot the data on scatter plot
 
