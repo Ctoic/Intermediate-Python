@@ -41,7 +41,7 @@ If you would like to contribute to this repository, feel free to create a pull r
 # License
 This repository is licensed under the MIT license. See LICENSE for more information.
 
-Acknowledgments
-The Pandas documentation: https://pandas.pydata.org/docs/
-The Matplotlib documentation: https://matplotlib.org/stable/contents.html
-The Python documentation: https://docs.python.org/3/
+# Acknowledgments
+1. The Pandas documentation: https://pandas.pydata.org/docs/
+2. The Matplotlib documentation: https://matplotlib.org/stable/contents.html
+3. The Python documentation: https://docs.python.org/3/
