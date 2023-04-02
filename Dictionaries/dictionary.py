@@ -31,3 +31,29 @@ print ( "Capitals after adding china " , capitals . items ())
 for  key , value  in  capitals . items ():
         print ( key ,":" ,  value )
 
+# looping for keys only
+
+for keys in capitals:
+    print (keys)
+
+# looping for values only
+
+for values in capitals.values():
+    print (values)
+
+# adding 2 key value pairs to the dictionary
+
+capitals.update({ "Japan" : "Tokyo" , "Russia" : "Moscow" })
+
+# printing all the items again
+
+print ( "Capitals after adding Japan and Russia " , capitals . items ())
+
+# removing india from the list 
+
+del capitals [ "India" ]
+
+# printing all the items again
+
+print ( "Capitals after removing India " , capitals . items ())
+
