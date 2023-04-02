@@ -3,13 +3,18 @@ The concepts covered in this repository, including Pandas, Matplotlib, NumPy, di
 
 # Getting Started
 To get started with these concepts, you will need to have Python installed on your computer. You can download the latest version of Python from the official website: 
-              https://www.python.org/downloads/. Additionally, you will need to install the following libraries:
+
+             https://www.python.org/downloads/. Additionally, you will need to install the following libraries:
 
 1. Pandas :
-       https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
+
+         https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 
 2. Matplotlib: 
-       https://matplotlib.org/stable/users/installing.html
+
+         https://matplotlib.org/stable/users/installing.html
+       
+       
 Once you have installed Python and the required libraries, you can clone this repository to your local machine using the following command:
 
 
