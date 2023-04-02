@@ -1,3 +1,11 @@
+"""
+    Name : Najam Ali Abbas
+    Date : 10/10/2019
+    Purpose : Numpy and BMI
+    Topic : Numpy
+    
+ """
+
 import numpy as np
 
 # Define arrays for weight and height
@@ -24,4 +32,3 @@ print("BMI values greater than 25:", bmi[bmi > 25])
 # print bmi values less than 25 and greater than 20
 
 print("BMI values less than 25 and greater than 20:", bmi[(bmi < 25) & (bmi > 20)])
-
