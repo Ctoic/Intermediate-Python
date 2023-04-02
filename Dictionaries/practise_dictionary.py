@@ -10,11 +10,18 @@ print(europe['france']['capital'])
 
 # Create sub-dictionary data
 
+data = {'capital':'rome', 'population':59.83}
+
 
 # Add data to europe under key 'italy'
 
+europe['italy'] = data
+
 
 # Print europe
+
+print(europe)
+
 
 
 print(europe['norway']['capital'])
@@ -24,4 +31,4 @@ print(europe['norway']['capital'])
 for keys in europe:
     print (europe[keys]['population'])
 
-    
+
