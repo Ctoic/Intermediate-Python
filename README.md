@@ -19,28 +19,28 @@ Once you have installed Python and the required libraries, you can clone this re
 # Concepts Covered
 The following intermediate level Python concepts are covered in this repository:
 
-###Pandas:
+### Pandas:
 1. DataFrames
 2. Series
 3. Reading and writing data
 4. Data cleaning and manipulation
 5. Grouping and aggregation
-Merging and joining
-Matplotlib:
-Basic plotting
-Line plots
-Scatter plots
-Bar plots
-Histograms
-Subplots
-Dictionaries:
-Creating dictionaries
-Accessing and modifying dictionary items
-Looping through dictionaries
-Contributing
+6. Merging and joining
+### Matplotlib:
+1. Basic plotting
+2. Line plots
+3. Scatter plots
+4. Bar plots
+5. Histograms
+6. Subplots
+### Dictionaries:
+1. Creating dictionaries
+2. Accessing and modifying dictionary items
+3. Looping through dictionaries
+# Contributing
 If you would like to contribute to this repository, feel free to create a pull request. Contributions are welcome, whether it's adding more concepts or improving the existing ones.
 
-License
+# License
 This repository is licensed under the MIT license. See LICENSE for more information.
 
 Acknowledgments
