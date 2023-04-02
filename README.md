@@ -18,6 +18,21 @@ Once you have installed Python and the required libraries, you can clone this re
 
 # Concepts Covered
 The following intermediate level Python concepts are covered in this repository:
+# Concepts Covered in This Repository
+
+| Concept | Description |
+| --- | --- |
+| Pandas | A data manipulation library that provides data structures for efficiently storing and analyzing data. |
+| Matplotlib | A data visualization library that provides a wide range of graphs, charts, and plots. |
+| NumPy | A numerical computing library that provides support for large, multi-dimensional arrays and matrices. |
+| Dictionaries | A collection data type that stores data as key-value pairs. |
+| Control Flow | The order in which statements are executed in a program, including loops, conditional statements, and functions. |
+| Functions | A block of code that performs a specific task and can be called multiple times throughout a program. |
+| Classes | A blueprint for creating objects that define the properties and methods of a particular type of object. |
+| File Handling | The process of reading from or writing to files on a computer's file system. |
+| Regular Expressions | A pattern used to match and manipulate text in strings. |
+| Error Handling | The process of anticipating, detecting, and handling errors that may occur in a program. |
+
 # Table of Functions for Pandas and Matplotlib
 
 | Pandas | Matplotlib |
