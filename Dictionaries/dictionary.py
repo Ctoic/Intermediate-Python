@@ -4,8 +4,6 @@
 '''
 
 
-
-
 # a dictionary containing countires and thier capitals
 
 capitals  = { "Pakistan" : "Islamabad" , "India" : "New Delhi" , "Afghanistan" : "Kabul" }
@@ -64,4 +62,19 @@ del capitals [ "India" ]
 # printing all the items again
 
 print ( "Capitals after removing India " , capitals . items ())
+
+# printing all the countries with starting letter P
+
+for keys in capitals:
+    if keys.startswith("P"):
+        print ("Countries starts with letter P :" , keys)
+
+# printing all the countries with ending letter n
+for keys in capitals:
+    if keys.startswith("N"):
+        print ("countries starts with letter n " , keys)
+    else:
+        print ("countries does not starts with letter n " , keys)
+        
+
 
