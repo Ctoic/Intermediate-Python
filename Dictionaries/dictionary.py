@@ -1,6 +1,8 @@
 ''' Author : Najam Ali Abbas 
     Date   : 10/10/2019
-    Purpose: To learn about dictionaries in python
+    Purpose: To learn about dictionaries in python and how to use them in data analysis
+    Topic  : Dictionaries
+    
 '''
 
 
@@ -75,6 +77,6 @@ for keys in capitals:
         print ("countries starts with letter n " , keys)
     else:
         print ("countries does not starts with letter n " , keys)
-        
+
 
 
