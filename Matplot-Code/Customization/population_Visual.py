@@ -22,6 +22,8 @@ plt.title(label='Revenue vs Years', loc='center', pad=20, fontsize=20, color='gr
 
 plt.yticks([ 100 , 80 , 85 , 95 , 95], [ "100B" , "80B" , "85B" , "95B" , "95B"])
 
+# adding Grids 
+plt.grid(True)
 
 
 # pyplot.show()
