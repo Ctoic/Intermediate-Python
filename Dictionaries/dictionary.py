@@ -1,3 +1,11 @@
+''' Author : Najam Ali Abbas 
+    Date   : 10/10/2019
+    Purpose: To learn about dictionaries in python
+'''
+
+
+
+
 # a dictionary containing countires and thier capitals
 
 capitals  = { "Pakistan" : "Islamabad" , "India" : "New Delhi" , "Afghanistan" : "Kabul" }
