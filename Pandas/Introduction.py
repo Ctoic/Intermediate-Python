@@ -19,6 +19,9 @@ countries = { "Pakistan" : { "Capital" : "Islamabad" , "Area" : 881913 , "Popula
 import pandas as pa
 
 # creating a dataframe from dictionary
+# dataframe is a 2 dimensional data structure with labeled axes(rows and columns)
+# dataframe is a tabular data structure
+
 
 df = pa.DataFrame(countries)
 
